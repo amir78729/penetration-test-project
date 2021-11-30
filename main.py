@@ -3,10 +3,9 @@ from detect_active_hosts import detect_active_hosts
 from detect_open_ports import detect_open_ports
 from detect_port_services import detect_port_services
 
-
 if __name__ == '__main__':
     while True:
-        print('------------------------- PING  PROGRAM -------------------------')
+        print('--------------------- INFORMATION  SECURITY ---------------------')
         try:
             option = int(input(
                 'select an option:\n\t 1) ping and ip\n\t 2) ping and ip range and show active hosts\n\t 3) scan open '
@@ -51,8 +50,13 @@ if __name__ == '__main__':
                         range_start=int(input('START OF RANGE   : ')),
                         range_end=int(input('END  OF  RANGE   : ')),
                     )
-                    print('\n{} open port(s):'.upper().format(len(port_services)))
-                    [print(' {}:\t{}'.format(port, port_services[port])) for port in port_services.keys()]
+                    print('\nport services:'.upper())
+                    [print(' {}:\t{} {}'
+                           .format(port,
+                                   port_services[port][0].upper(),
+                                   '' if not port_services[port][1] else '\n\t\t({})\n'
+                                   .format(port_services[port][1]))
+                           ) for port in port_services.keys()]
                 except ValueError:
                     print('value error!\nplease try again...'.upper())
 
