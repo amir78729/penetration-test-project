@@ -1,0 +1,246 @@
+@ 2021-11-30 19:26:36.659282
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 20 TO 90:
+ 21:	ftp
+ 22:	ssh
+ 23:	telnet
+ 53:	domain
+ 80:	http
+----------------------------------------------------
+@ 2021-11-30 19:30:05.617262
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 500:
+ 21:	ftp
+ 22:	ssh
+ 23:	telnet
+ 53:	domain
+ 80:	http
+ 443:	https
+----------------------------------------------------
+@ 2021-11-30 19:31:56.641379
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 60:
+ 21:	ftp
+ 22:	ssh
+ 23:	telnet
+ 53:	domain
+----------------------------------------------------
+@ 2021-11-30 19:36:16.246473
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 200:
+ 21:	ftp
+ 22:	ssh
+ 23:	telnet
+ 53:	domain
+ 80:	http
+----------------------------------------------------
+@ 2021-12-01 01:35:10.994109
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	ftp
+ 22:	ssh
+ 23:	telnet
+ 80:	http
+----------------------------------------------------
+@ 2021-12-01 01:36:22.661313
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	ftp
+ 22:	ssh
+ 23:	telnet
+ 80:	http
+----------------------------------------------------
+@ 2021-12-01 01:37:33.415844
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	ftp
+ 22:	ssh
+ 23:	telnet
+ 80:	http
+----------------------------------------------------
+@ 2021-12-01 01:38:16.661406
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	('ftp', b"220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready\r\n500 'WhoAreYou': command not understood\r\n")
+ 22:	('ssh', b'SSH-2.0-ROSSSH\r\n')
+ 23:	('telnet', b'')
+ 80:	('http', b'HTTP/1.0 400 Bad Request\r\nConnection: close\r\nContent-Length: 113\r\nDate: Fri, 12 Nov 2021 09:36:16 GM')
+----------------------------------------------------
+@ 2021-12-01 01:40:59.930630
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	('ftp', b'220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready\r\n')
+ 22:	('ssh', b'SSH-2.0-ROSSSH\r\n')
+ 23:	('telnet', b'')
+ 80:	('http', b'')
+----------------------------------------------------
+@ 2021-12-01 01:41:20.977428
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	('ftp', b'220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready\r\n')
+ 22:	('ssh', b'SSH-2.0-ROSSSH\r\n')
+ 23:	('telnet', b'')
+ 80:	('http', b'')
+----------------------------------------------------
+@ 2021-12-01 01:43:58.225838
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	('ftp', '220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready\r\n')
+ 22:	('ssh', 'SSH-2.0-ROSSSH\r\n')
+ 23:	('telnet', '')
+ 80:	('http', '')
+----------------------------------------------------
+@ 2021-12-01 01:44:19.870061
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	('ftp', '220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready\r\n')
+ 22:	('ssh', 'SSH-2.0-ROSSSH\r\n')
+ 23:	('telnet', '')
+ 80:	('http', '')
+----------------------------------------------------
+@ 2021-12-01 01:44:32.021524
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	('ftp', "220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready\r\n500 'WhoAreYou': command not understood\r\n")
+ 22:	('ssh', 'SSH-2.0-ROSSSH\r\n')
+ 23:	('telnet', '')
+ 80:	('http', 'HTTP/1.0 400 Bad Request\r\nConnection: close\r\nContent-Length: 113\r\nDate: Fri, 12 Nov 2021 09:42:31 GM')
+----------------------------------------------------
+@ 2021-12-01 01:48:25.293158
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	ftp(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready
+)
+ 22:	ssh(SSH-2.0-ROSSSH
+)
+ 23:	telnet
+ 80:	http
+----------------------------------------------------
+@ 2021-12-01 01:50:05.284927
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	ftp(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready
+)
+ 22:	ssh(SSH-2.0-ROSSSH
+)
+ 23:	telnet
+ 80:	http
+----------------------------------------------------
+@ 2021-12-01 01:50:59.957308
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	ftp(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready
+)
+ 22:	ssh(SSH-2.0-ROSSSH
+)
+ 23:	telnet
+ 80:	http
+----------------------------------------------------
+@ 2021-12-01 01:52:21.260789
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	ftp 
+(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready
+)
+ 22:	ssh 
+(SSH-2.0-ROSSSH
+)
+ 23:	telnet 
+ 80:	http 
+----------------------------------------------------
+@ 2021-12-01 01:54:45.047070
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 20 TO 30:
+ 21:	ftp 
+(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+ 22:	ssh 
+(SSH-2.0-ROSSSH)
+ 23:	telnet 
+----------------------------------------------------
+@ 2021-12-01 01:56:02.212978
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 20 TO 30:
+ 21:	ftp 
+	(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+ 22:	ssh 
+	(SSH-2.0-ROSSSH)
+ 23:	telnet 
+----------------------------------------------------
+@ 2021-12-01 01:57:20.201068
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 20 TO 30:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+----------------------------------------------------
+@ 2021-12-01 01:58:03.263102
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 20 TO 30:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+----------------------------------------------------
+@ 2021-12-01 01:59:50.283708
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 200:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 80:	HTTP 
+----------------------------------------------------
+@ 2021-12-01 02:01:34.882073
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 300:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 80:	HTTP 
+----------------------------------------------------
+@ 2021-12-01 02:03:15.523934
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 300:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 80:	HTTP 
+		(HTTP/1.0 400 Bad RequestConnection: closeContent-Length: 113Date: Fri, 12 Nov 2021 10:01:02 GM)
+
+----------------------------------------------------
+@ 2021-12-01 02:04:55.543237
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 500:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 80:	HTTP 
+		(HTTP/1.0 400 Bad RequestConnection: closeContent-Length: 113Date: Fri, 12 Nov 2021 10:02:29 GM)
+
+ 443:	HTTPS 
+----------------------------------------------------
+@ 2021-12-01 02:09:13.238896
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready500 'WhoAreYou': command not understood)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 80:	HTTP 
+		(HTTP/1.0 400 Bad RequestConnection: closeContent-Length: 113Date: Fri, 12 Nov 2021 10:07:13 GM)
+
+----------------------------------------------------
+@ 2021-12-01 13:42:00.852965
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 500:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready500 'WhoAreYou': command not understood)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 53:	DOMAIN 
+ 80:	HTTP 
+		(HTTP/1.0 400 Bad RequestConnection: closeContent-Length: 113Date: Fri, 12 Nov 2021 21:39:46 GM)
+
+ 443:	HTTPS 
+----------------------------------------------------
