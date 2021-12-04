@@ -16,7 +16,7 @@ def detect_port_services(ip, range_start, range_end):
 
             # trying to get more information about port service
             try:
-                message = b'WhoAreYou\r\n'
+                message = b'WhoAreYou'
                 s.send(message)
                 banner = s.recv(100)
                 s.close()
@@ -24,7 +24,7 @@ def detect_port_services(ip, range_start, range_end):
                 banner = b''
 
             if result == 0:
-                service_name = getservbyport(port, 'tcp')
+                service_name = getservbyport(port)
                 port_services.update({port: (service_name, banner.replace(b'\r\n', b'').decode('utf-8'))})
 
             s.close()

@@ -244,3 +244,85 @@ HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 500:
 
  443:	HTTPS 
 ----------------------------------------------------
+@ 2021-12-01 14:42:54.521259
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 200:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 53:	DOMAIN 
+ 80:	HTTP 
+----------------------------------------------------
+@ 2021-12-01 15:23:10.333083
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 1000:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 53:	DOMAIN 
+ 80:	HTTP 
+ 443:	HTTPS 
+----------------------------------------------------
+@ 2021-12-01 15:26:43.444387
+HOST 89.43 OPEN PORTS' SERVICES FROM 0 TO 0:
+× NO OPEN PORTS WAS FOUNDED!
+----------------------------------------------------
+@ 2021-12-01 15:32:36.158261
+HOST 89.43.3.85 OPEN PORTS' SERVICES FROM 1 TO 1000:
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 53:	DOMAIN 
+ 443:	HTTPS 
+----------------------------------------------------
+@ 2021-12-01 15:34:10.544151
+HOST 89.43.3.69 OPEN PORTS' SERVICES FROM 1 TO 1000:
+ 22:	SSH 
+		(SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u6)
+
+ 53:	DOMAIN 
+ 80:	HTTP 
+		(<html><head><title>400 Bad Request</title></head><body bgcolor="white"><center><h1>400 Bad Req)
+
+ 122:	SMAKYNET 
+		(SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u6)
+
+ 443:	HTTPS 
+----------------------------------------------------
+@ 2021-12-01 15:36:03.078111
+HOST 89.43.3.155 OPEN PORTS' SERVICES FROM 1 TO 1000:
+ 53:	DOMAIN 
+ 85:	MIT-ML-DEV 
+ 443:	HTTPS 
+----------------------------------------------------
+@ 2021-12-04 13:34:24.276854
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 100:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 53:	DOMAIN 
+ 80:	HTTP 
+----------------------------------------------------
+@ 2021-12-04 13:42:47.831545
+HOST 89.43.3.170 OPEN PORTS' SERVICES FROM 1 TO 1000:
+ 21:	FTP 
+		(220 daycent.com@Anzali FTP server (MikroTik 6.48.3) ready)
+
+ 22:	SSH 
+		(SSH-2.0-ROSSSH)
+
+ 23:	TELNET 
+ 53:	DOMAIN 
+ 80:	HTTP 
+ 443:	HTTPS 
+----------------------------------------------------
